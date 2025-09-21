@@ -213,3 +213,5 @@ Report.log
 Report.out
 Report.synctex.gz
 Report.fdb_latexmk
+
+test.ipynb
